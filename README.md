@@ -1,3 +1,7 @@
+> [!note]
+> This project has been migrated to Codeberg and will no longer be updated here.<br>
+> Visit the projects Codeberg repository at: https://codeberg.org/VoxelBill/CC-Gist
+
 # ComputerCraft Gist
 
 A gist command for ComputerCraft to allow downloading/running lua code from a github gist.
@@ -7,7 +11,7 @@ A gist command for ComputerCraft to allow downloading/running lua code from a gi
 Install the `gist` command:
 
 ```
-pastebin get MJKiRynE gist.lua
+pastebin get <code> gist.lua
 ```
 
 **Command Syntax**
